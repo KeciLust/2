@@ -1,0 +1,20 @@
+{
+  "name": "2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "start_game": "./index.js",
+    "static_game": "./static.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Keci",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "readline": "^1.3.0",
+    "yargs": "^17.7.2"
+  }
+}
